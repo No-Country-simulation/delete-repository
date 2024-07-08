@@ -1,1 +1,0 @@
-### Datos en bruto descargados o recibidos.

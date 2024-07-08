@@ -1,1 +1,0 @@
-## Directorio para almacenar archivos de visualización en Power BI.
